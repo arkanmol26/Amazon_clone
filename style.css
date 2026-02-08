@@ -10,11 +10,11 @@
     display: flex;
     align-items:center;
     justify-content: space-evenly;
-    
+/*     
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 100%; */
 
 
     /* position: fixed; */
@@ -105,4 +105,26 @@
      display:flex;
      justify-content: center;
      align-items: center;
+}
+.panel{
+    height:40px;
+    background-color: #222f3d;
+    width:100%;
+    display:flex;
+    color:white;
+    align-items: center;
+ 
+}
+.panel-all{
+    width:5%;
+}
+.panel-ops p{
+    display:inline;
+    margin:10px;
+      
+}
+.panel-ops{
+    width:95%;
+    display:flex;
+    justify-content: flex-start;
 }
