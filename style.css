@@ -146,3 +146,42 @@
    font-size:0.85rem;
    margin-bottom:25px;
 }
+.cards{
+    background-color:rgb(249, 194, 216);
+    display:flex;
+    justify-content: space-evenly;
+}
+.card-img{
+    height:300px;
+    width:22%;
+    background-color: white;
+    border:2px solid black;
+    padding:20px 0px 15px;
+    margin-top:15px;
+    
+}
+
+.box{
+    height:250px;
+    background-size: cover;
+    margin-top:1rem;
+    margin-bottom:1rem; 
+     
+}
+.box_container{
+    margin-left:1rem;
+    margin-right:1rem; 
+}
+footer{
+    height:200px;
+    background-color:#f8c8dc;
+     border-top:0.5px solid black;
+     margin-top:2px;
+}
+.foot{
+    background-color: rgb(110, 126, 141);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   
+}
