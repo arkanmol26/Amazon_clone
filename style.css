@@ -132,7 +132,7 @@
 .hero-section{
     background-image: url(hero-img.jpg);
     background-size: cover;
-    height:38 0px;
+    height:380px;
     display:flex;
    justify-content: center;
    align-items:flex-end;
