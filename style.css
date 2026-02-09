@@ -128,3 +128,21 @@
     display:flex;
     justify-content: flex-start;
 }
+
+.hero-section{
+    background-image: url(hero-img.jpg);
+    background-size: cover;
+    height:38 0px;
+    display:flex;
+   justify-content: center;
+   align-items:flex-end;
+  
+}
+.hero-msg{
+    
+    background-color: white;
+   width:95%;
+   height:40px;
+   font-size:0.85rem;
+   margin-bottom:25px;
+}
